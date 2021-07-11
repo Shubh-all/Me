@@ -83,7 +83,7 @@ transition: all 0.3s ease;
 }
 .navbar.sticky{
 padding: 15px 0;
-background: crimson;
+background: red;
 }
 .navbar .max-width{
 display: flex;
